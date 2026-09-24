@@ -17,14 +17,9 @@ My current work focuses on how early childhood education resources are distribut
 
 **M.Ed. in Preschool Education** · September 2024–present
 
-- GPA: 91.27/100
-- Master's thesis: *Children's Activity Trajectories and Spatial Experiences in Kindergarten*
-
 ### Shandong Normal University
 
 **B.Ed. in Preschool Education** · September 2020–June 2024
-
-- GPA: 3.81/5 (Top 10%)
 
 ## Current Research
 
