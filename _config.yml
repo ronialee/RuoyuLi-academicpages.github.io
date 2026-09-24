@@ -23,7 +23,7 @@ repository               : "ronialee/RuoyuLi-academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "profile.jpg"
   name             : "Ruoyu Li"
   pronouns         : # example: "she/her"  
   bio              : "M.Ed. candidate in Preschool Education at Nanjing Normal University."

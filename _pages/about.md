@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Preschool Education at Nanjing Normal University. My research examines educational inequality, the sociology of education, early childhood education policy, and the spatial distribution of educational resources.
+I am currently a Master’s student in Preschool Education at Nanjing Normal University. I received my B.Ed. in Preschool Education from Shandong Normal University.
 
-My current work focuses on how early childhood education resources are distributed and governed in Chinese megacities. I use qualitative methods, including interviews, participant observation, grounded theory coding, document analysis, and the Mosaic approach, to study how policies and institutions shape children's educational experiences.
+My current research focuses on educational inequality, early childhood education policy, and the spatial distribution of educational resources. I am particularly interested in how demographic change, population mobility, and uneven resource distribution shape educational opportunities for young children.
+
+Alongside my policy-oriented research, I am also interested in children’s everyday experiences in educational spaces. My Master’s thesis explores young children’s activity trajectories and spatial experiences in kindergarten using qualitative and child-centered research methods.
 
 ## Education
 
@@ -21,12 +23,6 @@ My current work focuses on how early childhood education resources are distribut
 
 **B.Ed. in Preschool Education** · September 2020–June 2024
 
-## Current Research
-
-As a research assistant on the National Education Sciences Planning Youth Project *Spatial Patterns and Governance Mechanisms of Early Childhood Education Resources in Chinese Megacities* (CHA220301), I have contributed to the collection and analysis of 514 policy documents from 21 Chinese megacities and super-large cities. This work examines policy instruments, governance responsibilities, equitable access, and support for disadvantaged areas and groups.
-
-My master's thesis, *Children's Activity Trajectories and Spatial Experiences in Kindergarten*, explores how young children experience and make meaning of kindergarten spaces.
-
 ## Research Interests
 
 - Educational inequality
@@ -36,4 +32,4 @@ My master's thesis, *Children's Activity Trajectories and Spatial Experiences in
 
 ## Contact
 
-I welcome conversations about shared research interests and potential academic collaboration. You can reach me at [liruoyu20020928@163.com](mailto:liruoyu20020928@163.com).
+I welcome conversations about shared research interests, academic exchange, and potential collaboration. You can reach me at [liruoyu20020928@163.com](mailto:liruoyu20020928@163.com).
