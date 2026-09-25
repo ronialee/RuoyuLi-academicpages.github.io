@@ -1,6 +1,8 @@
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}<a href="{{ post.link }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}
+    </h2>
     <p>
       {% if post.category == "published" %}
         Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
