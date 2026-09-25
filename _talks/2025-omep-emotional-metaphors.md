@@ -4,7 +4,7 @@ collection: talks
 type: "Oral presentation"
 permalink: /talks/2025-omep-emotional-metaphors
 venue: "77th OMEP World Assembly and International Conference"
-date: 2025-01-01
+date: 2025-07-17
 location: "Italy"
 ---
 

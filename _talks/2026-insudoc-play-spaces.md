@@ -4,8 +4,8 @@ collection: talks
 type: "Oral presentation"
 permalink: /talks/2026-insudoc-play-spaces
 venue: "4th International Summer School and Symposium for Junior Researchers (InSuDoc 2026)"
-date: 2026-01-01
+date: 2026-06-03
 location: "Hong Kong"
 ---
 
-Oral presentation examining children's play spaces through the perspective of interpretive reproduction.
+This study examines how children transform adult-organized kindergarten play areas into child-defined spaces through interpretive reproduction. Based on participant observation and interviews, it shows that children collectively negotiate rules, rearrange materials, and build peer-based forms of participation, creating temporary “underlife” spaces within adult-structured environments. The study foregrounds children’s agency and peer culture in the production of play space.
