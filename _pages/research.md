@@ -18,11 +18,13 @@ author_profile: true
         <li>Analyzed how existing policy instruments respond to demographic change, population mobility, regional disparities, and multi-actor governance.</li>
         <li>Co-authored two manuscripts arising from the project, serving as first author on one.</li>
       </ul>
-      <h2>Master’s Thesis</h2>
-      <p><strong>Children’s Activity Trajectories and Spatial Experiences in Kindergarten</strong></p>
-      <p>My thesis examines children’s everyday movements and spatial experiences in kindergarten, with attention to children’s perspectives and the relationship between educational environments and lived experience.</p>
-      <h2>Methods and Tools</h2>
-      <p>My methodological experience includes semi-structured interviews, focus groups, participant observation, grounded theory coding, document analysis, and the Mosaic approach. I work with NVivo, SPSS, and CiteSpace.</p>
+      <h2>Children’s Activity Trajectories and Spatial Experiences in Kindergarten</h2>
+      <p><em>Master’s Thesis</em> · 2025.12–Present</p>
+      <ul>
+        <li>Investigating 5–6-year-old children’s spatial activity trajectories and experiences in kindergarten through systematic tracking observation and the Mosaic approach.</li>
+        <li>Examining children’s spatial use, preferences, and meaning-making through child-led tours, photography, drawing-based interviews, and route mapping.</li>
+        <li>Completed approximately 108 hours of observation, 24 interviews, and 6 child-led tours; coded transcripts of child interviews and child-led tours using grounded theory coding procedures.</li>
+      </ul>
     </div>
   </details>
 
