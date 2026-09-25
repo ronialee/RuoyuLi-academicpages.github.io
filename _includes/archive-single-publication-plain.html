@@ -1,0 +1,18 @@
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
+    <p>
+      {% if post.category == "published" %}
+        Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+      {% else %}
+        <i>{{ post.venue }}</i>
+      {% endif %}
+    </p>
+    {% if post.excerpt %}
+      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+    {% endif %}
+    {% if post.citation %}
+      <p>Recommended citation: {{ post.citation }}</p>
+    {% endif %}
+  </article>
+</div>

@@ -42,12 +42,12 @@ author_profile: true
               <h2>{{ category[1].title }}</h2>
               {% assign title_shown = true %}
             {% endunless %}
-            {% include archive-single.html %}
+            {% include archive-single-publication-plain.html %}
           {% endfor %}
         {% endfor %}
       {% else %}
         {% for post in site.publications reversed %}
-          {% include archive-single.html %}
+          {% include archive-single-publication-plain.html %}
         {% endfor %}
       {% endif %}
     </div>
