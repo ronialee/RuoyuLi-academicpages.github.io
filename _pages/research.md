@@ -56,7 +56,7 @@ author_profile: true
   <details>
     <summary>Conference Presentations</summary>
     <div class="research-accordion__content">
-      {% for post in site.talks reversed %}
+      {% for post in site.talks %}
         {% include archive-single-talk.html %}
       {% endfor %}
     </div>
@@ -120,5 +120,13 @@ author_profile: true
   .research-accordion .publication-summary p {
     font-size: 1rem;
     line-height: 1.65;
+  }
+
+  .conference-photo {
+    border-radius: 4px;
+    display: block;
+    height: auto;
+    margin: 1rem 0 2rem;
+    max-width: 100%;
   }
 </style>
