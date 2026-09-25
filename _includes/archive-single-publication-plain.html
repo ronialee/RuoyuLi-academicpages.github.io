@@ -9,9 +9,9 @@
       {% endif %}
     </p>
     {% if post.excerpt %}
-      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+      <div class="archive__item-excerpt publication-summary" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% endif %}
-    {% if post.citation %}
+    {% if post.citation and post.category == "published" %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% endif %}
   </article>

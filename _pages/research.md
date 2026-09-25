@@ -115,4 +115,10 @@ author_profile: true
   .research-accordion__content h2:first-child {
     margin-top: 0.5rem;
   }
+
+  .research-accordion .publication-summary,
+  .research-accordion .publication-summary p {
+    font-size: 1rem;
+    line-height: 1.65;
+  }
 </style>
